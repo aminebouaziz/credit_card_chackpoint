@@ -1,0 +1,49 @@
+.card{
+    margin: 50px 50px 50px 200px; 
+    background-color: rgb(48, 40, 163);
+    height: 300px;
+    width: 600px;
+    border-radius: 50px 50px;
+}
+.puce{
+    position: absolute;
+   margin-top: 80px;
+   margin-left: 50px;
+    height: 70px;
+}
+.mstLogo{
+    position: absolute;
+    height: 150px;
+    margin-top: 150px;
+    margin-left: 440px;
+}
+.name{
+    color:rgb(200, 200, 200);
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 50px;
+    font-size: 30px;
+    text-transform:capitalize;
+}
+.num{
+    color:rgb(200, 200, 200);
+    position: absolute;
+    margin-top: 160px;
+   margin-left: 20px;
+   font-size: 30px;
+}
+.code{
+    color:rgb(200, 200, 200);
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 350px;
+    font-size: 30px;
+}
+.cName{
+    color:rgb(200, 200, 200);
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 330px;
+    font-size: 30px;
+    text-transform:capitalize;
+}
